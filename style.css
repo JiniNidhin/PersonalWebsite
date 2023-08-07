@@ -1,0 +1,35 @@
+#intro
+{
+    background-image: url(https://www.analyticsinsight.net/wp-content/uploads/2021/05/Women-in-Tech.jpeg);
+    height: 20vh;
+    
+}
+#about-div
+{
+    background-color: #212529;
+}
+#about-img{
+    border-radius: 40%;
+}
+#about-imgSpan{
+    width:27%
+}
+.resume-title{
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    color: #f7e7e7;
+   
+}
+
+.reume-p
+{
+    margin-left: 20px; 
+}
+.card img{
+    width:25%;
+    border-radius: 50%;
+    
+}
